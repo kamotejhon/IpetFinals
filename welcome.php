@@ -21,7 +21,7 @@
     <body>
         <div class="page-header">
             <h1>
-                Hi, <b><?= $_SESSION['username'] ?></b>. Welcome to our site.
+            Hi, <b><?=strtoupper ($_SESSION['username']) ?></b>. Welcome to our site.
             </h1>
         </div>
         <p>

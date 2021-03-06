@@ -6,3 +6,6 @@ body {
     width: 350px;
     padding: 20px;
 }
+.h1{
+    text-transform: uppercase;
+}
